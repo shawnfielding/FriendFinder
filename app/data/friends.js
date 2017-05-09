@@ -1,10 +1,10 @@
 // Data for friends results.
 var theFriends = [{
-  "name": "Allen",
-  "gender": "male",
-  "preference": "female",
-  "photo": "https://www.pexels.com/photo/portrait-of-young-man-in-autumn-247917/",
-  "scores": [
+  name: "Allen",
+  gender: "male",
+  preference: "female",
+  photo: "https://static.pexels.com/photos/247917/pexels-photo-247917.jpeg",
+  scores: [
     5,
     1,
     4,
@@ -17,11 +17,11 @@ var theFriends = [{
     1
   ]
 }, {
-  "name": "Joe",
-  "gender": "male",
-  "preference": "female",
-  "photo": "https://www.pexels.com/photo/man-in-red-and-blue-v-neck-shirt-101584/",
-  "scores": [
+  name: "Joe",
+  gender: "male",
+  preference: "female",
+  photo: "https://static.pexels.com/photos/101584/pexels-photo-101584.jpeg",
+  scores: [
     3,
     1,
     1,
@@ -34,11 +34,11 @@ var theFriends = [{
     3
   ]
 }, {
-  "name": "Zach",
-  "gender": "male",
-  "preference": "female",
-  "photo": "https://www.pexels.com/photo/man-wearing-black-framed-sunglasses-making-face-while-taking-self-photo-128998/",
-  "scores": [
+  name: "Zach",
+  gender: "male",
+  preference: "female",
+  photo: "https://static.pexels.com/photos/101584/pexels-photo-101584.jpeg",
+  scores: [
     2,
     5,
     1,
@@ -51,11 +51,11 @@ var theFriends = [{
     5
   ]
 }, {
-  "name": "Harry",
-  "gender": "male",
-  "preference": "female",
-  "photo": "https://www.pexels.com/photo/whiteboard-presentation-ideas-planning-7370/",
-  "scores": [
+  name: "Harry",
+  gender: "male",
+  preference: "female",
+  photo: "https://static.pexels.com/photos/7370/startup-photo.jpg",
+  scores: [
     1,
     2,
     2,
@@ -68,11 +68,11 @@ var theFriends = [{
     5
   ]
 }, {
-  "name": "Bridgit",
-  "gender": "female",
-  "preference": "male",
-  "photo": "https://www.pexels.com/photo/blonde-haired-woman-in-blue-shirt-y-27411/",
-  "scores": [
+  name: "Bridgit",
+  gender: "female",
+  preference: "male",
+  photo: "https://static.pexels.com/photos/27411/pexels-photo-27411.jpg",
+  scores: [
     5,
     1,
     4,
@@ -85,11 +85,11 @@ var theFriends = [{
     1
   ]
 }, {
-  "name": "Amanda",
-  "gender": "female",
-  "preference": "male",
-  "photo": "https://www.pexels.com/photo/girl-woman-curly-hair-27060/",
-  "scores": [
+  name: "Amanda",
+  gender: "female",
+  preference: "male",
+  photo: "https://static.pexels.com/photos/27060/pexels-photo.jpg",
+  scores: [
     2,
     3,
     4,
@@ -102,11 +102,11 @@ var theFriends = [{
     2
   ]
 }, {
-  "name": "Zooey",
-  "gender": "female",
-  "preference": "male",
-  "photo": "https://www.pexels.com/photo/woman-with-black-hair-on-chain-swing-smiling-57862/",
-  "scores": [
+  name: "Zooey",
+  gender: "female",
+  preference: "male",
+  photo: "https://static.pexels.com/photos/57862/pexels-photo-57862.jpeg",
+  scores: [
     2,
     5,
     5,
@@ -119,11 +119,11 @@ var theFriends = [{
     2
   ]
 }, {
-  "name": "Wanda",
-  "gender": "female",
-  "preference": "male",
-  "photo": "https://www.pexels.com/photo/portrait-of-smiling-girl-against-white-background-253758/",
-  "scores": [
+  name: "Wanda",
+  gender: "female",
+  preference: "male",
+  photo: "https://static.pexels.com/photos/253758/pexels-photo-253758.jpeg",
+  scores: [
     5,
     1,
     4,
